@@ -43,7 +43,7 @@ Dirijo el desarrollo de innovación tecnológica en mi propia empresa de softwar
 ![Atrox39 GitHub stats](https://github-readme-stats.vercel.app/api?username=atrox39&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF&icon_color=A855F7&border_color=581C87&border_radius=10)
 
 ## Mis Libros
-![Sockets en Linux con C: Una guía moderna y práctica para crear clientes, servidores y servicios web](https://www.amazon.com.mx/dp/B0H3YN5CQM)
+[Sockets en Linux con C: Una guía moderna y práctica para crear clientes, servidores y servicios web](https://www.amazon.com.mx/dp/B0H3YN5CQM)
 
 ---
 *Explora mis repositorios para ver herramientas de infraestructura, proyectos de hardware y soluciones de software escalables.*
