@@ -38,10 +38,6 @@ Dirijo el desarrollo de innovación tecnológica en mi propia empresa de softwar
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=A855F7" />
 </p>
 
-## 📈 Estadísticas de GitHub
-
-[![Atrox39's GitHub stats](https://github-readme-stats.vercel.app/api?username=atrox39&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF&icon_color=A855F7&border_color=581C87&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Mis Libros
 [Sockets en Linux con C: Una guía moderna y práctica para crear clientes, servidores y servicios web](https://www.amazon.com.mx/dp/B0H3YN5CQM)
 
