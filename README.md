@@ -16,7 +16,6 @@ Dirijo el desarrollo de innovación tecnológica en mi propia empresa de softwar
 <p>
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A855F7" />
