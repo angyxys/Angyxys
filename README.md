@@ -1,4 +1,4 @@
-# Atrox39 - Fullstack developer
+# Angyxys - Fullstack developer
 
 Profesional en Ingeniería en Sistemas Computacionales y **Senior Fullstack Developer** con más de 8 años de experiencia en el ciclo completo de desarrollo de software. Mi trabajo se centra en la arquitectura de sistemas, la programación de bajo nivel, la automatización de infraestructura (DevOps) y el análisis de datos.
 
